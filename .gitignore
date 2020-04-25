@@ -1,0 +1,6 @@
+/LiamWIP/*
+!/LiamWIP/Plugins/
+/LiamWIP/Plugins/*
+!/LiamWIP/Plugins/src/
+/LiamWIP/Plugins/src/*
+!/LiamWIP/Plugins/src/main/
