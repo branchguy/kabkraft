@@ -1,6 +1,0 @@
-name: TestPlugin
-version: ${project.version}
-main: mc.branchingo.testplugin.TestPlugin
-api-version: 1.13
-authors: [Branchingo]
-description: A jar to test ideas

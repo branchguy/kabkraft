@@ -1,6 +1,0 @@
-name: KabenzoTestPlugin
-version: ${project.version}
-main: me.kabenzo.kabenzotestplugin.KabenzoTestPlugin
-api-version: 1.13
-authors: [Kabenzo]
-description: Plugin for learning purposes

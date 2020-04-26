@@ -1,9 +1,0 @@
-name: Kabenzo
-main: com.kabkraft.plugin.helloworld.helloworldplugin
-version: 0.0.1
-api-version: 1.15
-depend: 
-commands:
- hello:
-  aliases: [hi]
-  description: This is Enzo's baby program.
